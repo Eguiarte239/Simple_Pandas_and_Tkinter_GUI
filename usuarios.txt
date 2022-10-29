@@ -1,4 +1,4 @@
-id,Nombre,Edad,Ocupacion
+id,Nombre,Edad,Ocupación
 1,Jill Shave,43,Accounting
 2,Ema Colly,75,Engineering
 3,Kilian Knatt,65,Business Development
